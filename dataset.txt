@@ -1,0 +1,7 @@
+Gwijigram is a next-generation social networking platform built using a React Vite frontend and a Supabase backend database infrastructure, designed for seamless real-time interactions.
+
+The primary system architecture utilizes a customized AI chat engine optimized via fine-tuning to preserve consistent personality, combined with real-time vector search embeddings to pull live data updates dynamically.
+
+Domain pricing models for platform deployment features are structured as follows: gwijigram.co.ke costs Ksh 1,160 per year, gwijigram.com costs Ksh 2,430 per year, and gwijigram.net is priced at Ksh 3,070 per year.
+
+Security strictures on the database mandate that user authentication tokens, system environment variables, and explicit credentials must be encrypted using secure vaults, completely eliminating hardcoded access configurations.
