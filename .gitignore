@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual env
+venv/
+env/
+.venv/
+ENV/
+
+# Secrets
+.env
+.env.local
+*.key
+auth.sh
+token.txt
+hosts.yml
+
+# Flask
+instance/
+.webassets-cache
+
+# Dataset / models (if large)
+*.bin
+*.pt
+*.pth
+*.h5
+dataset/*.txt
+!dataset.txt
+
+# OS
+.DS_Store
+Thumbs.db
