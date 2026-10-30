@@ -38,3 +38,5 @@ dataset/*.txt
 # OS
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
